@@ -35,6 +35,7 @@ The dependencies are:
 - Flask~=1.1.2
 
 ### Project Motivation <a name="motivation"></a>
+![main page](/images/homepage.png "The main page") 
 
 In this project, I will be using the dataset made available by [Figure 8](https://www.figure-eight.com/) to analyze
 disaster data to build a model for an API that classifies disaster messages.
@@ -47,6 +48,8 @@ to notify the concerned organization. For example, a message reporting fire a lo
 can then forward this message onto the fire department. This will provide timely responses to messages of distress. 
 A task which would otherwise require an human being to continuously monitor messages for possible incidents, is 
 automated by the power of machine learning.
+
+![visulizations](/images/visualisation.png "The visualizations") 
 
 ### File Descriptions <a name="files"></a>
     \app
