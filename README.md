@@ -88,4 +88,4 @@ automated by the power of machine learning.
 3. Go to http://0.0.0.0:3001/
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-This project was done as part of the Udacity Data Scientist Nanodegree.
+This project was done as part of the Udacity Data Scientist Nanodegree. The licensing information is detailed in the LICENSE file
